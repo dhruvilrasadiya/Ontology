@@ -194,7 +194,3 @@ python ontology_builder.py
 - Docker Installation: https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04
 
 ---
-
-## TODO
-
-- Update `send_response()` to return responses in proper format (refer to item module).
